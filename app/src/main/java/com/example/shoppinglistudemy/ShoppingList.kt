@@ -84,7 +84,7 @@ fun ShoppingListApp() {
                 }
             }
         }
-
+        // testing remote fetching
     }
 
     if (showDialog) {
