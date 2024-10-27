@@ -82,7 +82,6 @@ fun ShoppingListApp() {
                         
 
                 }
-//                ShoppingListItem(item = it, {}, {})
             }
         }
 
